@@ -2,7 +2,11 @@
   "name": "animate-sass",
   "version": "0.0.1",
   "description": "port animate.sass to npm",
-  "main": "animate.sass",
+  "main": "animate.scss",
   "author": "",
   "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FortAwesome/Font-Awesome.git"
+  }
 }
