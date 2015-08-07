@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "port animate.sass to npm",
   "main": "animate.scss",
-  "license": "ISC"
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "https://github.com/ppiccolo/animate.scss.git"
