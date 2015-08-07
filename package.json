@@ -1,0 +1,8 @@
+{
+  "name": "animate-sass",
+  "version": "0.0.1",
+  "description": "port animate.sass to npm",
+  "main": "animate.sass",
+  "author": "",
+  "license": "ISC"
+}
