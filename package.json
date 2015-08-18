@@ -1,6 +1,6 @@
 {
   "name": "animate-sass",
-  "version": "0.0.1",
+  "version": "3.2.0",
   "description": "port animate.sass to npm",
   "main": "animate.scss",
   "license": "ISC",
